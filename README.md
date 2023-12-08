@@ -7,7 +7,7 @@ In each code file I have explained how to use it.
 # Dataset
 I have used Monkeypox Skin Images Dataset (MSID) you can download it from below link.
 
-Link: ``` https://www.kaggle.com/datasets/dipuiucse/monkeypoxskinimagedataset ```
+Link: [https://www.kaggle.com/datasets/dipuiucse/monkeypoxskinimagedataset](url)
 
 # Installation
 
