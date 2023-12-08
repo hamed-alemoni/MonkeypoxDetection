@@ -1,6 +1,8 @@
 # MonkeypoxDetection
 This a deep learning solution for Monkeypox Detection I have used a ready model names DensNet201 and anoher model that I have designed by myself.
+
 I have used classic way to augment the dataset.
+
 In each code file I have explained how to use it.
 
 
