@@ -20,7 +20,7 @@ git clone https://github.com/hamed-alemoni/https://github.com/hamed-alemoni/Monk
 
 # Result 
 
-## 0: Chickenpox - 1: Measles 2: Monkeypox 3: Normal
+## 0: Chickenpox  --  1: Measles  --  2: Monkeypox  --  3: Normal
 
 ![alt text](https://github.com/hamed-alemoni/Monkeypox_detection/blob/main/results/confusion_matrix_densnet.png)
 
