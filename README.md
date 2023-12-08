@@ -13,7 +13,7 @@ Link: [https://www.kaggle.com/datasets/dipuiucse/monkeypoxskinimagedataset](url)
 
 # Installation
 
-To get this tool install git then enter below command in command line : 
+To get these files, first install git then enter below command in command line : 
 ```
 git clone https://github.com/hamed-alemoni/https://github.com/hamed-alemoni/MonkeypoxDetection.git
 ```
